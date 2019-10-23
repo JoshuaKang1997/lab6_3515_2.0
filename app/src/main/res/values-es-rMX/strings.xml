@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PaletteActivity</string>
+    <string-array name="color">
+        <item>Blanco</item>
+        <item>Azul</item>
+        <item>Verde</item>
+        <item>Magenta</item>
+        <item>Cian</item>
+        <item>Negro</item>
+        <item>Lima</item>
+        <item>Amarillo</item>
+        <item>Púrpura</item>
+        <item>Rojo</item>
+    </string-array>
+
+    <string name="english">PaletteActivity</string>
+    <string-array name="ecolor">
+        <item>White</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Magenta</item>
+        <item>Cyan</item>
+        <item>Black</item>
+        <item>Lime</item>
+        <item>Yellow</item>
+        <item>Purple</item>
+        <item>Red</item>
+    </string-array>
+</resources>
